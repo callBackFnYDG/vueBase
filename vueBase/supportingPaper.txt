@@ -1,0 +1,24 @@
+//前端搭建说明文件
+
+// 使用vue-cli手脚架搭建
+
+// vue： 主框架
+// iview： UI插件
+// axios: 请求插件
+// vue-router： 框架路由
+
+// vuex： 状态管理
+// vuex-persistedstate： 状态管理持久化插件
+
+// babel： es JavaScript 版本编译器
+// eslint： 插件化的javascript代码检测工具 规范化前端代码
+
+// 文件夹说明
+// assets : 静态文件资源
+// components ： 模板文件资源
+// config ：配置文件资源
+// pages : 路由文件资源
+
+// plugins : 插件导入配置资源
+// router ： 路由配置资源
+// store : 状态管理配置资源
